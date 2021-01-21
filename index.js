@@ -1,4 +1,4 @@
-import jsonServer from 'jsonSever';
+import jsonServer from 'jsonServer';
 const server = jsonServer.create();
 const router = jsonServer.router('./genre/Comedy.json');
 const middlewares = jsonServer.defaults();
