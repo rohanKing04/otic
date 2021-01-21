@@ -1,0 +1,24 @@
+{
+  "name": "otic",
+  "version": "1.0.0",
+  "description": "Repo for Otic Chatbot developed by me and 2 others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackerbone/otic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hackerbone/otic/issues"
+  },
+  "homepage": "https://github.com/Hackerbone/otic#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}

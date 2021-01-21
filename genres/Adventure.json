@@ -1,0 +1,53 @@
+{
+    "shows": [{
+        "id": 31132,
+        "name": "Regular Show",
+        "overview": "Two bored groundskeepers, Mordecai (a six-foot-tall blue jay) and Rigby (a hyperactive raccoon) are best friends who spend their days trying to entertain themselves by any means necessary, much to the displeasure of their boss. Their everyday pursuits often lead to things spiraling out of control and into the surreal.",
+        "air_date": "2010-09-06"
+    }, {
+        "id": 62688,
+        "name": "Supergirl",
+        "overview": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
+        "air_date": "2015-10-26"
+    }, {
+        "id": 56570,
+        "name": "Outlander",
+        "overview": "The story of Claire Randall, a married combat nurse from 1945 who is mysteriously swept back in time to 1743, where she is immediately thrown into an unknown world where her life is threatened. When she is forced to marry Jamie, a chivalrous and romantic young Scottish warrior, a passionate affair is ignited that tears Claire's heart between two vastly different men in two irreconcilable lives.",
+        "air_date": "2014-08-09"
+    }, {
+        "id": 32573,
+        "name": "Strike Back",
+        "overview": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20, a fictional branch of the Secret Intelligence Service.",
+        "air_date": "2010-05-05"
+    }, {
+        "id": 246,
+        "name": "Avatar: The Last Airbender",
+        "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+        "air_date": "2005-02-21"
+    }, {
+        "id": 47665,
+        "name": "Black Sails",
+        "overview": "The pirate adventures of Captain Flint and his men twenty years prior to Robert Louis Stevenson’s classic “Treasure Island.” Flint, the most brilliant and most feared pirate captain of his day, takes on a fast-talking young addition to his crew who goes by the name John Silver. Threatened with extinction on all sides, they fight for the survival of New Providence Island, the most notorious criminal haven of its day – a debauched paradise teeming with pirates, prostitutes, thieves and fortune seekers, a place defined by both its enlightened ideals and its stunning brutality.",
+        "air_date": "2014-01-25"
+    }, {
+        "id": 45790,
+        "name": "JoJo's Bizarre Adventure",
+        "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+        "air_date": "2012-10-06"
+    }, {
+        "id": 64196,
+        "name": "Overlord",
+        "overview": "In the year 2138, virtual reality gaming is booming. Yggdrasil, a popular online game is quietly shut down one day. However, one player named Momonga decides to not log out. Momonga is then transformed into the image of a skeleton as \"the most powerful wizard.\" The world continues to change, with non-player characters (NPCs) beginning to feel emotion. Having no parents, friends, or place in society, this ordinary young man Momonga then strives to take over the new world the game has become.",
+        "air_date": "2015-07-07"
+    }, {
+        "id": 61550,
+        "name": "Marvel's Agent Carter",
+        "overview": "It's 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR (Strategic Scientific Reserve), Peggy must balance doing administrative work and going on secret missions for Howard Stark all while trying to navigate life as a single woman in America, in the wake of losing the love of her life - Steve Rogers.",
+        "air_date": "2015-01-06"
+    }, {
+        "id": 16997,
+        "name": "The Pacific",
+        "overview": "Track the intertwined real-life stories of three U.S. Marines – Robert Leckie, John Basilone, and Eugene Sledge – across the vast canvas of the Pacific Theater during World War II. A companion piece to the 2001 miniseries Band of Brothers.",
+        "air_date": "2010-03-14"
+    }]
+}

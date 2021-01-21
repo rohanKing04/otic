@@ -1,0 +1,53 @@
+{
+    "shows": [{
+        "id": 69050,
+        "name": "Riverdale",
+        "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+        "air_date": "2017-01-26"
+    }, {
+        "id": 77169,
+        "name": "Cobra Kai",
+        "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+        "air_date": "2018-05-02"
+    }, {
+        "id": 71712,
+        "name": "The Good Doctor",
+        "overview": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives",
+        "air_date": "2017-09-25"
+    }, {
+        "id": 44217,
+        "name": "Vikings",
+        "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+        "air_date": "2013-03-03"
+    }, {
+        "id": 96677,
+        "name": "Lupin",
+        "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+        "air_date": "2021-01-08"
+    }, {
+        "id": 1416,
+        "name": "Grey's Anatomy",
+        "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+        "air_date": "2005-03-27"
+    }, {
+        "id": 79242,
+        "name": "Chilling Adventures of Sabrina",
+        "overview": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.",
+        "air_date": "2018-10-26"
+    }, {
+        "id": 75006,
+        "name": "The Umbrella Academy",
+        "overview": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+        "air_date": "2019-02-15"
+    }, {
+        "id": 91239,
+        "name": "Bridgerton",
+        "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+        "air_date": "2020-12-25"
+    }, {
+        "id": 86382,
+        "name": "The Stand",
+        "overview": "In a world mostly wiped out by the plague and embroiled in an elemental struggle between good and evil, the fate of mankind rests on the frail shoulders of the 108-year-old Mother Abagail and a handful of survivors. Their worst nightmares are embodied in a man with a lethal smile and unspeakable powers: Randall Flagg, the Dark Man.",
+        "air_date": "2020-12-17"
+    }]
+}

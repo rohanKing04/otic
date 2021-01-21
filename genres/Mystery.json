@@ -1,0 +1,53 @@
+{
+    "shows": [{
+        "id": 85271,
+        "name": "WandaVision",
+        "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+        "air_date": "2021-01-15"
+    }, {
+        "id": 69050,
+        "name": "Riverdale",
+        "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+        "air_date": "2017-01-26"
+    }, {
+        "id": 96677,
+        "name": "Lupin",
+        "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+        "air_date": "2021-01-08"
+    }, {
+        "id": 79242,
+        "name": "Chilling Adventures of Sabrina",
+        "overview": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.",
+        "air_date": "2018-10-26"
+    }, {
+        "id": 113367,
+        "name": "The Wilds",
+        "overview": "A group of teen girls from different backgrounds must fight for survival after a plane crash strands them on a deserted island. The castaways both clash and bond as they learn more about each other, the secrets they keep, and the traumas they've all endured. But there’s just one twist… these girls did not end up on this island by accident.",
+        "air_date": "2020-12-11"
+    }, {
+        "id": 1399,
+        "name": "Game of Thrones",
+        "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+        "air_date": "2011-04-17"
+    }, {
+        "id": 110316,
+        "name": "Alice in Borderland",
+        "overview": "With his two friends, a video-game-obsessed young man finds himself in a strange version of Tokyo where they must compete in dangerous games to win.",
+        "air_date": "2020-12-10"
+    }, {
+        "id": 94413,
+        "name": "The Mess You Leave Behind",
+        "overview": "A teacher starts her job at a high school but is haunted by a suspicious death that occurred there weeks before and begins fearing for her own life.",
+        "air_date": "2020-12-11"
+    }, {
+        "id": 89844,
+        "name": "30 Coins",
+        "overview": "Father Vergara—an exorcist, boxer and ex-convict—lives in a remote village in Spain. Hoping to be lost and forgotten, Vergara’s demons catch up to him.",
+        "air_date": "2020-11-29"
+    }, {
+        "id": 66732,
+        "name": "Stranger Things",
+        "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+        "air_date": "2016-07-15"
+    }]
+}

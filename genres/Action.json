@@ -1,0 +1,53 @@
+{
+    "shows": [{
+        "id": 32798,
+        "name": "Hawaii Five-0",
+        "overview": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The governor offers him the chance to run his own task force (Five-0). Steve's team is joined by Chin Ho Kelly, Danny \"Danno\" Williams, and Kono Kalakaua.",
+        "air_date": "2010-09-20"
+    }, {
+        "id": 62688,
+        "name": "Supergirl",
+        "overview": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
+        "air_date": "2015-10-26"
+    }, {
+        "id": 62710,
+        "name": "Blindspot",
+        "overview": "A vast international plot explodes when a beautiful Jane Doe is discovered naked in Times Square, completely covered in mysterious, intricate tattoos with no memory of who she is or how she got there. But there's one tattoo that is impossible to miss: the name of FBI agent Kurt Weller, emblazoned across her back. \"Jane,\" Agent Weller and the rest of the FBI quickly realize that each mark on her body is a crime to solve, leading them closer to the truth about her identity and the mysteries to be revealed.",
+        "air_date": "2015-09-21"
+    }, {
+        "id": 61889,
+        "name": "Marvel's Daredevil",
+        "overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
+        "air_date": "2015-04-10"
+    }, {
+        "id": 32573,
+        "name": "Strike Back",
+        "overview": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20, a fictional branch of the Secret Intelligence Service.",
+        "air_date": "2010-05-05"
+    }, {
+        "id": 246,
+        "name": "Avatar: The Last Airbender",
+        "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+        "air_date": "2005-02-21"
+    }, {
+        "id": 45790,
+        "name": "JoJo's Bizarre Adventure",
+        "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+        "air_date": "2012-10-06"
+    }, {
+        "id": 61550,
+        "name": "Marvel's Agent Carter",
+        "overview": "It's 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR (Strategic Scientific Reserve), Peggy must balance doing administrative work and going on secret missions for Howard Stark all while trying to navigate life as a single woman in America, in the wake of losing the love of her life - Steve Rogers.",
+        "air_date": "2015-01-06"
+    }, {
+        "id": 62264,
+        "name": "Ash vs Evil Dead",
+        "overview": "Bruce Campbell reprises his role as Ash Williams, an aging lothario and chainsaw-handed monster hunter who’s spent the last three decades avoiding maturity, and the terrors of the Evil Dead. But when a Deadite plague threatens to destroy all of mankind, he’s forced to face his demons — both metaphorical and literal.",
+        "air_date": "2015-10-31"
+    }, {
+        "id": 60685,
+        "name": "Dominion",
+        "overview": "Dominion is an epic supernatural drama set in the near future. Specifically, 25 years after \"The Extinction War,\" when an army of lower angels, assembled by the archangel Gabriel, waged war against mankind. The archangel Michael, turning against his own kind, chose to side with humanity. Rising out of the ashes of this long battle are newly fortified cities which protect human survivors. At the center of the series is the city of Vega, a glistening empire that has formed from the ruins of what was once Las Vegas. ",
+        "air_date": "2014-06-19"
+    }]
+}

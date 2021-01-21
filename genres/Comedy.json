@@ -1,0 +1,53 @@
+{
+    "shows": [{
+        "id": 85271,
+        "name": "WandaVision",
+        "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+        "air_date": "2021-01-15"
+    }, {
+        "id": 111499,
+        "name": "De brutas, nada",
+        "overview": "In a contemporary Mexico City, a group of six sophisticated close friends navigate through every life experience imaginable together: love, lies, heartbreak, marriage, divorce, kids, career, job loss, fights, break-ups, and unbreakable friendships.",
+        "air_date": "2020-06-11"
+    }, {
+        "id": 456,
+        "name": "The Simpsons",
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "air_date": "1989-12-16"
+    }, {
+        "id": 81356,
+        "name": "Sex Education",
+        "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+        "air_date": "2019-01-11"
+    }, {
+        "id": 12637,
+        "name": "Rebelde",
+        "overview": "The series is set at the Elite Way School, a prestigious private boarding high school in Mexico City with a major plot line revolving around a group of students forming a pop band. Additional subplots involve the school's faculty and the students' parents. One trademark of the show is the random use of English words and phrases, often used by fresa characters.",
+        "air_date": "2004-10-04"
+    }, {
+        "id": 63926,
+        "name": "One-Punch Man",
+        "overview": "Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he’s become so strong that he’s practically invincible. In fact, he’s too strong—even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?",
+        "air_date": "2015-10-05"
+    }, {
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "overview": "The sitcom is centered on five characters living in Pasadena, California: roommates Leonard Hofstadter and Sheldon Cooper; Penny, a waitress and aspiring actress who lives across the hall; and Leonard and Sheldon's equally geeky and socially awkward friends and co-workers, mechanical engineer Howard Wolowitz and astrophysicist Raj Koothrappali. The geekiness and intellect of the four guys is contrasted for comic effect with Penny's social skills and common sense.",
+        "air_date": "2007-09-24"
+    }, {
+        "id": 16286,
+        "name": "Yo soy Betty, la fea",
+        "overview": "Yo soy Betty, la fea is a telenovela filmed in Colombia, written by Fernando Gaitán and produced from October 25, 1999 to May 8, 2001 by the Colombian network RCN. More than a dozen versions of the telenovela have been made in other countries. In the United States, both the comedy-drama hit Ugly Betty and Televisa program La Fea Más Bella are based on the Colombian soap opera.\n\nBetty, la Fea re-aired on Spanish-language U.S. network TeleFutura in January 2009. Eight years after the telenovela's original run, the highly anticipated return of the original version of Yo Soy Betty, La Fea delivered impressive ratings for the network, attracting over one million viewers, more than half a million of which were adults aged 18–49. In addition, the premiere episode doubled and in some cases nearly tripled its prior audience among all key demographics.\n\nDue to the success of re-runs aired in the United States, in June 2009, Yo soy Betty, la fea re-aired in México on Canal de las Estrellas.\n\nBetty, la Fea is arguably the most successful telenovela of all time and one of the most popular television shows in the world. It is the first telenovela to have been remade worldwide and has been regarded as bringing the telenovela to new levels of success.",
+        "air_date": "1999-10-25"
+    }, {
+        "id": 60625,
+        "name": "Rick and Morty",
+        "overview": "Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+        "air_date": "2013-12-02"
+    }, {
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "overview": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
+        "air_date": "2000-01-09"
+    }]
+}

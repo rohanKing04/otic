@@ -1,0 +1,53 @@
+{
+    "shows": [{
+        "id": 456,
+        "name": "The Simpsons",
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "air_date": "1989-12-16"
+    }, {
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "overview": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
+        "air_date": "2000-01-09"
+    }, {
+        "id": 65334,
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "overview": "Normal high school kids by day, protectors of Paris by night! Miraculous follows the heroic adventures of Marinette and Adrien as they transform into Ladybug and Cat Noir and set out to capture akumas, creatures responsible for turning the people of Paris into villains. But neither hero knows the other’s true identity – or that they’re classmates!",
+        "air_date": "2015-10-19"
+    }, {
+        "id": 37606,
+        "name": "The Amazing World of Gumball",
+        "overview": "The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive brother, and best friend Darwin Watterson, he frequently finds himself involved in various shenanigans around the city, during which he interacts with various family members: Anais, Richard, and Nicole Watterson, and other various citizens.",
+        "air_date": "2011-05-02"
+    }, {
+        "id": 70785,
+        "name": "Anne with an E",
+        "overview": "A coming-of-age story about an outsider who, against all odds and numerous challenges, fights for love and acceptance and for her place in the world. The series centers on a young orphaned girl in the late 1890’s, who, after an abusive childhood spent in orphanages and the homes of strangers, is mistakenly sent to live with an elderly woman and her aging brother. Over time, 13-year-old Anne will transform their lives and eventually the small town in which they live with her unique spirit, fierce intellect and brilliant imagination.",
+        "air_date": "2017-03-19"
+    }, {
+        "id": 107775,
+        "name": "I love you, Güero",
+        "overview": "“La mexicana y el güero” is the story of some scammers who try to deceive a millionaire who is looking for his biological mother through a plan that is funny about what is complicated.  Itatí Cantoral, Gala Montes, Juan Soler, Luis Roberto Guzmán, Montserrat Marañón, Jacqueline Andere, Rodrigo Abed and Laura Vignatti, among many other stars.",
+        "air_date": "2020-08-17"
+    }, {
+        "id": 63401,
+        "name": "We Bare Bears",
+        "overview": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, trying to make human friends,  or scheming to become famous on the internet. Grizzly, Panda and Ice  Bear stack atop one another when they leave their cave and explore the  hipster environs of the San Francisco Bay Area, and it's clear the  siblings have a lot to learn about a technologically driven world. By  their side on many adventures are best friend Chloe (the only human  character in the cast), fame-obsessed panda Nom Nom, and Charlie, aka  Bigfoot.",
+        "air_date": "2015-08-24"
+    }, {
+        "id": 4229,
+        "name": "Dexter's Laboratory",
+        "overview": "Dexter's Laboratory is an American comic science fiction animated children's television series created by Genndy Tartakovsky for Cartoon Network. The series follows Dexter, a boy-genius with a secret laboratory filled with his collection of inventions. He constantly battles his sister Dee Dee, who always gains access despite his best efforts to keep her out, as well as his arch-rival and neighbor, Mandark. The series' first two seasons contain additional segments: Dial M for Monkey, which focuses on Dexter's pet lab monkey-turned-superhero, and The Justice Friends, about a trio of superheroes who share an apartment.\n\nTartakovsky first pitched the series to Hanna-Barbera's animated shorts showcase World Premiere Toons, basing it on student films he produced while attending the California Institute of the Arts. Four shorts were created and broadcast on Cartoon Network in 1995 and 1996 before viewer approval ratings convinced the network to order a 13-episode first season, which premiered on April 28, 1996. By 1999, 52 episodes and a television movie had been produced, and Tartakovsky then left the series to begin work on his other projects, Samurai Jack and Star Wars: Clone Wars. In 2001, the network revived the series under a different production team at Cartoon Network Studios, and after 26 more episodes, the series ended on November 20, 2003.",
+        "air_date": "1996-04-28"
+    }, {
+        "id": 31251,
+        "name": "Victorious",
+        "overview": "Aspiring singer Tori Vega navigates life while attending a performing arts high school called Hollywood Arts.",
+        "air_date": "2010-03-27"
+    }, {
+        "id": 63452,
+        "name": "Wer weiß denn sowas?",
+        "overview": "",
+        "air_date": "2015-07-06"
+    }]
+}

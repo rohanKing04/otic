@@ -1,0 +1,53 @@
+{
+    "shows": [{
+        "id": 18165,
+        "name": "The Vampire Diaries",
+        "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+        "air_date": "2009-09-10"
+    }, {
+        "id": 60866,
+        "name": "iZombie",
+        "overview": "A medical student who becomes a zombie joins a Coroner's Office in order to gain access to the brains she must reluctantly eat so that she can maintain her humanity. But every brain she eats, she also inherits their memories and must now solve their deaths with help from the Medical examiner and a police detective.",
+        "air_date": "2015-03-17"
+    }, {
+        "id": 64432,
+        "name": "The Magicians",
+        "overview": "Brakebills University is a secret institution specializing in magic. There, amidst an unorthodox education of spellcasting, a group of twenty-something friends soon discover that a magical fantasy world they read about as children is all too real— and poses grave danger to humanity.",
+        "air_date": "2015-12-16"
+    }, {
+        "id": 62823,
+        "name": "Scream: The TV Series",
+        "overview": "What starts as a YouTube video going viral, soon leads to problems for the teenagers of Lakewood and serves as the catalyst for a murder that opens up a window to the town's troubled past. Everyone has secrets. Everyone tells lies. Everyone is fair game.",
+        "air_date": "2015-06-30"
+    }, {
+        "id": 45790,
+        "name": "JoJo's Bizarre Adventure",
+        "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+        "air_date": "2012-10-06"
+    }, {
+        "id": 62264,
+        "name": "Ash vs Evil Dead",
+        "overview": "Bruce Campbell reprises his role as Ash Williams, an aging lothario and chainsaw-handed monster hunter who’s spent the last three decades avoiding maturity, and the terrors of the Evil Dead. But when a Deadite plague threatens to destroy all of mankind, he’s forced to face his demons — both metaphorical and literal.",
+        "air_date": "2015-10-31"
+    }, {
+        "id": 318,
+        "name": "American Gothic",
+        "overview": "Everything is not what it seems in Trinity, South Carolina. Sheriff Lucas Buck develops a sinister interest in Caleb. Caleb's cousin Gail tries to protect him, but that's complicated since she has feelings for Sheriff Buck. And Caleb's dead sister, Merlyn, returns as an angel, warning him that Buck is an incarnation of evil - and may not be human.",
+        "air_date": "1995-09-22"
+    }, {
+        "id": 22893,
+        "name": "The Hidden Room",
+        "overview": "",
+        "air_date": "1991-07-23"
+    }, {
+        "id": 65267,
+        "name": "Halfworlds",
+        "overview": "In the bustling streets and back alleys of Jakarta, a parallel world of bloodthirsty creatures from Indonesian mythology has lived alongside humans for generations. Taking on the appearance of humans themselves, the true identity of these \"Demit\" has been carefully concealed for centuries by a powerful family of mortals. The arrival of a mysterious supernatural event known only as the Gift will bring this hidden world to the surface. As the day of the Gift approaches, a young street artist named Sarah unexpectedly finds herself in the eye of the storm. Once the Demit realize who Sarah really is, and what she must do, humans and Demit are set on a collision course that could change the balance of their two worlds forever.",
+        "air_date": "2015-11-29"
+    }, {
+        "id": 62798,
+        "name": "Blade",
+        "overview": "Legendary half-vampire, half-human vampire hunter Blade is tracking Deacon Frost, a very powerful and influential vampire who killed his mother and who heads Existence, a secretive vampire organization that operates in Southeast Asia.",
+        "air_date": "2011-07-01"
+    }]
+}

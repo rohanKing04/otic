@@ -1,0 +1,53 @@
+{
+    "shows": [{
+        "id": 45865,
+        "name": "Sparkling Girls",
+        "overview": "Sparkling Girls tells the story of three young and lovely, hard-working housekeepers who rise to stardom overnight after an incidentally uploaded online video of their singing performance becomes an unexpected hit.  Penha, Rosário, and Cida, all make an honest living cleaning, cooking, and picking up after their bosses. Besides an everlasting friendship, these three ordinary women also share the similar struggle of finding romantic love. The future music stars never imagined all the glitz and glamour that their lives would turn into. ",
+        "air_date": "2012-04-16"
+    }, {
+        "id": 61733,
+        "name": "Empire",
+        "overview": "A powerful family drama about the head of a music empire whose three sons and ex-wife all battle for his throne.",
+        "air_date": "2015-01-07"
+    }, {
+        "id": 63161,
+        "name": "Crazy Ex-Girlfriend",
+        "overview": "Rebecca Bunch is a successful, driven, and possibly crazy young woman who impulsively gives up everything - her partnership at a prestigious law firm and her upscale apartment in Manhattan - in a desperate attempt to find love and happiness in that exotic hotbed of romance and adventure: suburban West Covina, California.",
+        "air_date": "2015-10-12"
+    }, {
+        "id": 63535,
+        "name": "Vinyl",
+        "overview": "Set in 1970s New York, Vinyl is a ride through the sex- and drug-addled music business at the dawn of punk, disco, and hip-hop. The show is seen through the eyes of a record label president, Richie Finestra, who is trying to save his company and his soul without destroying everyone in his path.",
+        "air_date": "2016-02-14"
+    }, {
+        "id": 46732,
+        "name": "MTV Video Music Awards",
+        "overview": "An annual award ceremony presented by MTV to honor the best in the music video medium.",
+        "air_date": "1984-09-14"
+    }, {
+        "id": 63463,
+        "name": "THE iDOLM@STER",
+        "overview": "THE IDOLM@STER follows 13 girls from the 765 Production Studio, whose sole goals is to become the top idols in the Japanese entertainment industry. Along with the laughs, struggles and tears that are inherently part of this journey, you will cheer for the girls of iDOLM@STER as they climb their way to the top!",
+        "air_date": "2011-07-08"
+    }, {
+        "id": 10544,
+        "name": "Disco",
+        "overview": "Disco was a pop music program that aired in Germany on the ZDF network from 1971 to 1982. It generally aired on the first Saturday of each month at 7:30PM, each show running 45 minutes. 133 shows were produced. The show was hosted by German actor and comedian Ilja Richter. Its lesser known predecessor on ZDF, 4-3-2-1 Hot & Sweet was aired between 1966 and 1970, presenters included Ilja Richter and Suzanne Doucet. Disco generally served a younger pop-oriented audience compared to ZDF's Hitparade, and until 1972, its main competitor was Beat-Club, followed by Musikladen, both on ARD.\n\nRepeats of Disco have been aired since 1984 on ZDF Musikkanal, after its closedown in 1989 on 3sat. Since 2004, the digital ZDF Theaterkanal aired repeats of the entire series. In 2007, ZDF Dokukanal began to air reruns, starting with episodes from 1975 and also multiple repeats of the series have been shown on hit24 in 2008.\n\nThe show focussed on chart hits current at the time of airing, giving about equal airtime to international pop music and German Schlager. Despite its name, it did not particularly focus on disco music although it featured many disco hits as long as they were chart relevant..",
+        "air_date": "1971-02-13"
+    }, {
+        "id": 22471,
+        "name": "S Club 7",
+        "overview": "Be sure to catch this brilliant comedy show starring the brilliant pop group S Club, one of the most successful pop groups around. The show is all about the normal and ab-normal goings on with talented group of friends trying to be famous.",
+        "air_date": "1999-04-08"
+    }, {
+        "id": 6798,
+        "name": "Un paso adelante",
+        "overview": "Un Paso Adelante was a Spanish TV drama similar to the American 1980’s TV series Fame. It was originally broadcast on Spanish channel Antena 3 from 2002 to 2005. It has also been a huge success in Spanish-speaking countries, in Germany, Italy, Serbia, Montenegro and in France. It began airing on Séries+ in Canada in 2011.",
+        "air_date": "2002-01-08"
+    }, {
+        "id": 13983,
+        "name": "The Danny Thomas Hour",
+        "overview": "The Danny Thomas Hour is an American anthology television series that was broadcast on NBC during the 1967-68 television season.",
+        "air_date": "1967-09-11"
+    }]
+}

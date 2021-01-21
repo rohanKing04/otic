@@ -1,0 +1,53 @@
+{
+    "shows": [{
+        "id": 16997,
+        "name": "The Pacific",
+        "overview": "Track the intertwined real-life stories of three U.S. Marines – Robert Leckie, John Basilone, and Eugene Sledge – across the vast canvas of the Pacific Theater during World War II. A companion piece to the 2001 miniseries Band of Brothers.",
+        "air_date": "2010-03-14"
+    }, {
+        "id": 2942,
+        "name": "The Tudors",
+        "overview": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monarch who navigates the intrigues of the English court and the human heart with equal vigor and justifiable suspicion.",
+        "air_date": "2007-04-01"
+    }, {
+        "id": 63927,
+        "name": "Six Flying Dragons",
+        "overview": "The ambitious success stories of 6 people surrounding Prince Lee Bang Won, and the ideological and political conflict between Prince Lee Bang Won and Jung Do Jeon, the man instrumental in helping King Taejo establish the fledgling Joseon nation.",
+        "air_date": "2015-10-05"
+    }, {
+        "id": 21771,
+        "name": "The Great Queen Seondeok",
+        "overview": "The life story of Queen Seondeok, the first queen of the Korean people during the Silla Dynasty.",
+        "air_date": "2009-05-25"
+    }, {
+        "id": 64099,
+        "name": "War and Peace",
+        "overview": "A story that revolves around five aristocratic families, set during the reign of Alexander I, and centered on the love triangle between Natasha Rostova, Pierre Bezukhov, and Andrei Bolkonsky.",
+        "air_date": "2016-01-03"
+    }, {
+        "id": 18604,
+        "name": "Three Kingdoms",
+        "overview": "A Chinese television series based on the events in the late Eastern Han Dynasty and the Three Kingdoms period.",
+        "air_date": "2010-05-02"
+    }, {
+        "id": 45579,
+        "name": "The Moon Embracing the Sun",
+        "overview": "Thirteen-year-old Heo Yeon Woo, the daughter of a high-ranking official, accompanies her mother to the royal palace to attend her brother, Heo Yeom's civil service examination congratulatory ceremony. By chance, she comes across Crown Prince Lee Hwon. They fall in love, and Yeon Woo is chosen as the Crown Princess of Joseon. Before they can marry, the Dowager Queen secretly orders her death, in order to secure more power for herself. Yeon Woo becomes cursed and is stricken with an illness. All believe her to be dead, including the Crown Prince Lee Hwon. Heartbroken, he refuses to love another. Eight years later, the young king meets a shaman named Wol. He can’t help but find similarities between her and Yeon Woo and begins investigating Yeon Woo’s death.",
+        "air_date": "2012-01-04"
+    }, {
+        "id": 61488,
+        "name": "Secret Door",
+        "overview": "A re-imagining of the legendary tale of the troubled father-son relationship between King Yeongjo and his only son Prince Sado. While his father insists on a strong and centralized government, Crown Prince Sado promotes social justice and equality throughout the kingdom. Throughout eight fateful years, the strain on their relationship — both familial and political — eventually evolves into a total breakdown, ending with one of the most tragic stories in Joseon history.",
+        "air_date": "2014-09-22"
+    }, {
+        "id": 45049,
+        "name": "The King's Doctor",
+        "overview": "The King's Doctor is a 2012 South Korean television series, starring Jo Seung-woo and Lee Yo-won. It aired on Munhwa Broadcasting Corporation from October 1, 2012 to March 25, 2013 on Mondays and Tuesdays at 21:55 for 50 episodes. The drama commemorated MBC's 51st anniversary.\n\nThe historical/period epic was directed by Lee Byung-hoon, known for his previous works Hur Jun, Jewel in the Palace, Yi San and Dong Yi. This marked the first television drama for actor Jo Seung-woo in his 13-year film and stage career.",
+        "air_date": "2012-10-01"
+    }, {
+        "id": 44956,
+        "name": "Bridal Mask",
+        "overview": "During the Japanese occupation of Korea in the 1930s, one of the darkest periods of Korean history, heroes came from ordinary men who did extraordinary things in their everyday lives. Lee Kang To is one of those men. A skilled martial artist, Kang To actively participates in the independence movement to fight against the Japanese imperialist regime. He is known as “Gaksital” because he hides his true identity behind a rosy-cheeked traditional bridal mask, known as a “gaksital,” when he fights against the Japanese. But can one man do enough to right the wrongs of a terrifying national enemy?",
+        "air_date": "2012-05-30"
+    }]
+}

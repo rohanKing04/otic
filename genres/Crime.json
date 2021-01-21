@@ -1,0 +1,53 @@
+{
+    "shows": [{
+        "id": 96677,
+        "name": "Lupin",
+        "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+        "air_date": "2021-01-08"
+    }, {
+        "id": 63174,
+        "name": "Lucifer",
+        "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+        "air_date": "2016-01-25"
+    }, {
+        "id": 44953,
+        "name": "The Lord of the Skies",
+        "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
+        "air_date": "2013-04-15"
+    }, {
+        "id": 89844,
+        "name": "30 Coins",
+        "overview": "Father Vergara—an exorcist, boxer and ex-convict—lives in a remote village in Spain. Hoping to be lost and forgotten, Vergara’s demons catch up to him.",
+        "air_date": "2020-11-29"
+    }, {
+        "id": 67335,
+        "name": "Sin senos sí hay paraíso",
+        "overview": "A young woman born in a mafia-controlled town seeks revenge on those who wrongfully harmed and imprisoned her family.",
+        "air_date": "2016-07-19"
+    }, {
+        "id": 82809,
+        "name": "False Identity",
+        "overview": "Isabel and Diego, two complete strangers, must assume the identity of a married couple in order to flee the state of Sonora.",
+        "air_date": "2018-10-03"
+    }, {
+        "id": 76669,
+        "name": "Elite",
+        "overview": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+        "air_date": "2018-10-05"
+    }, {
+        "id": 58841,
+        "name": "Chicago P.D.",
+        "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+        "air_date": "2014-01-08"
+    }, {
+        "id": 71446,
+        "name": "Money Heist",
+        "overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+        "air_date": "2017-05-02"
+    }, {
+        "id": 1911,
+        "name": "Bones",
+        "overview": "Dr. Temperance Brennan and her colleagues at the Jeffersonian's Medico-Legal Lab assist Special Agent Seeley Booth with murder investigations when the remains are so badly decomposed, burned or destroyed that the standard identification methods are useless.",
+        "air_date": "2005-09-13"
+    }]
+}

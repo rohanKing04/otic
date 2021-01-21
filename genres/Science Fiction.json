@@ -1,0 +1,53 @@
+{
+    "shows": [{
+        "id": 62688,
+        "name": "Supergirl",
+        "overview": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
+        "air_date": "2015-10-26"
+    }, {
+        "id": 63247,
+        "name": "Westworld",
+        "overview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+        "air_date": "2016-10-02"
+    }, {
+        "id": 47640,
+        "name": "The Strain",
+        "overview": "A high concept thriller that tells the story of Dr. Ephraim Goodweather, the head of the Center for Disease Control Canary Team in New York City. He and his team are called upon to investigate a mysterious viral outbreak with hallmarks of an ancient and evil strain of vampirism. As the strain spreads, Eph, his team, and an assembly of everyday New Yorkers, wage war for the fate of humanity itself.",
+        "air_date": "2014-07-13"
+    }, {
+        "id": 60948,
+        "name": "12 Monkeys",
+        "overview": "The provocative story of Cole, a time traveler from a decimated future in a high-stakes race against the clock. Utilizing a dangerous and untested method of time travel, he journeys from 2043 to the present day on a mission to locate and eradicate the source of a deadly plague that will all but annihilate the human race.",
+        "air_date": "2015-01-16"
+    }, {
+        "id": 62858,
+        "name": "Colony",
+        "overview": "In the near future a family must make difficult decisions as they balance staying together with trying to survive. They live in Los Angeles, which has been occupied by a force of outside intruders.  While some people have chosen to collaborate with the authorities and benefit from the new order, others have rebelled — and suffer the consequences.",
+        "air_date": "2016-01-14"
+    }, {
+        "id": 63646,
+        "name": "Counterpart",
+        "overview": "Howard Silk is a lowly cog in a bureaucratic UN agency who is turning the last corner of a life filled with regret when he discovers the agency he works for is guarding a secret: a crossing to a parallel dimension.",
+        "air_date": "2017-12-10"
+    }, {
+        "id": 62425,
+        "name": "Dark Matter",
+        "overview": "The six-person crew of a derelict spaceship awakens from stasis in the farthest reaches of space. Their memories wiped clean, they have no recollection of who they are or how they got on board. The only clue to their identities is a cargo bay full of weaponry and a destination: a remote mining colony that is about to become a war zone. With no idea whose side they are on, they face a deadly decision. Will these amnesiacs turn their backs on history, or will their pasts catch up with them?",
+        "air_date": "2015-06-12"
+    }, {
+        "id": 39510,
+        "name": "Touch",
+        "overview": "Martin Bohm, a widower and single father, is haunted by an inability to connect to his autistic, mute 11-year-old son, Jake. Their relationship and their lives take an extraordinary turn when he discovers his gifted son has the ability to see things that no one else can and the patterns that connect seemingly unrelated events.",
+        "air_date": "2012-01-25"
+    }, {
+        "id": 1410,
+        "name": "Revolution",
+        "overview": "One day, electricity just stopped working and the world was suddenly thrust back into the dark ages. Now, 15 years later, a young woman's life is dramatically changed when a local militia arrives and kills her father, who mysteriously—and unbeknownst to her—had something to do with the blackout. An unlikely group sets out off on a daring journey to find answers about the past in the hopes of reclaiming the future.",
+        "air_date": "2012-09-17"
+    }, {
+        "id": 501,
+        "name": "Battlestar Galactica",
+        "overview": "When the 12 Colonies of Man are wiped out by a cybernetic race called the Cylons, Commander Adama and the crew of the battlestar Galactica lead a ragtag fleet of human survivors in search of a \"mythical planet\" called Earth.",
+        "air_date": "1978-09-17"
+    }]
+}
