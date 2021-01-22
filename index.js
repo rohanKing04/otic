@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 //Express.js
 //bodyparser
 
-app.get('/bhavesh', (req,res)=>{
+app.get('/bhavesh', (req, res) => {
     res.send("HI BHAVESH LOL");
 })
 
@@ -20,28 +20,51 @@ app.get('/webhook/:key', (req, res) => {
     console.log(shows);
 })
 
-function setResponse(obj) {
+function setResponse(obj ,genre) {
     var response = {
+        "fulfillmentText" : `Here are some ${genre} shows`,
         "fulfillmentMessages": []
     };
-    obj.shows.map((item) => {
-            response.fulfillmentMessages.push({
-                    "richContent": [{
-                            "title": item.name,
-                            "type": "description",
-                            "text": [
-                                item.air_date,
-                                item.overview
-                            ]
-                        },
-                        {
-                            "type": "divider"
-                        },
-                    ]
-                }
-            )
+    const temp = {
+        "text": {
+            "text": [
+                `Sure , here are some popular ${genre} tv shows :`
+            ]
         }
-    )
+    }
+    response.fulfillmentMessages.push(temp);
+    
+    obj.shows.map((item) => {
+        response.fulfillmentMessages.push({
+        
+        //     "richContent": [{
+        //             "title": item.name,
+        //             "type": "description",
+        //             "text": [
+        //                 item.air_date,
+        //                 item.overview
+        //             ]
+        //         },
+        //         {
+        //             "type": "divider"
+        //         },
+        //     ]
+        // }
+        
+            "payload": {
+              "richContent": [
+                [
+                  {
+                    "type": "info",
+                    "subtitle": item.overview,
+                    "title": item.name
+                  }
+                ]
+              ]
+            }
+          },
+        )//push
+    })
     return response;
 }
 
@@ -56,9 +79,11 @@ app.post('/webhook', (req, res) => {
     var genreToSend = req.body.queryResult.parameters['genre'];
     for (var genreType in shows) {
         if (genreToSend === genreType) {
-            const resp = setResponse(eval(`shows.${genreType}`));
-            resp.fulfillmentText = `Here are some ${genreType} shows`;
+
+    const resp = setResponse(eval(`shows.${genreType}`), genreType);
+            console.log(resp);
             return res.json(resp);
+
         }
     }
 })
