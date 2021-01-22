@@ -6,7 +6,13 @@ const port = process.env.PORT || 3000;
 const app = express();
 
 app.use(bodyParser.json());
+//Node.js
+//Express.js
+//bodyparser
 
+app.get('/bhavesh', (req,res)=>{
+    res.send("HI BHAVESH LOL");
+})
 
 app.get('/webhook/:key', (req, res) => {
     res.send(req.params.key);
@@ -19,8 +25,7 @@ function setResponse(obj) {
         "fulfillmentMessages": []
     };
     obj.shows.map((item) => {
-        response.fulfillmentMessages.push({
-                "payload": {
+            response.fulfillmentMessages.push({
                     "richContent": [{
                             "title": item.name,
                             "type": "description",
@@ -34,13 +39,12 @@ function setResponse(obj) {
                         },
                     ]
                 }
-            }
-
-        )
-    })
-   
+            )
+        }
+    )
     return response;
 }
+
 
 app.post('/webhook', (req, res) => {
     console.log("Got a post request");
@@ -52,7 +56,7 @@ app.post('/webhook', (req, res) => {
     var genreToSend = req.body.queryResult.parameters['genre'];
     for (var genreType in shows) {
         if (genreToSend === genreType) {
-            const resp = setResponse(eval(`shows.${genreType}`)); 
+            const resp = setResponse(eval(`shows.${genreType}`));
             resp.fulfillmentText = `Here are some ${genreType} shows`;
             return res.json(resp);
         }
