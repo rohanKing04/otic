@@ -70,7 +70,7 @@ app.post('/webhook', (req, res) => {
     for (var genreType in shows) {
         if (genreToSend === genreType) {
             var resp = {
-                "fullfillmentMessages": [
+                "fulfillmentMessages": [
                     {
                         "text" : {
                             "text":[
