@@ -19,7 +19,7 @@ function setResponse(obj) {
         "fulfillmentMessages": []
     };
     obj.shows.map((item) => {
-        response.fullfillmentMessages.push({
+        response.fulfillmentMessages.push({
                 "payload": {
                     "richContent": [{
                             "title": item.name,
@@ -53,7 +53,7 @@ app.post('/webhook', (req, res) => {
     for (var genreType in shows) {
         if (genreToSend === genreType) {
             const resp = setResponse(eval(`shows.${genreType}`)); 
-            resp.fullfillmentText = `Here are some ${genreType} shows`;
+            resp.fulfillmentText = `Here are some ${genreType} shows`;
             return res.json(resp);
         }
     }
