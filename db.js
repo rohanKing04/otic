@@ -28,10 +28,8 @@ for (var key in routesPath) {
 
 }
 
-module.exports = function () {
-    return {
-        data,
-        genres
+module.exports =  function () {
 
-    }
+       this.genres = genres;
+       this.shows = data;
 }
